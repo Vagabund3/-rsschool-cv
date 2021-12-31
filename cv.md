@@ -10,7 +10,7 @@
 
 **Email:** rus231997@gmail.com
 
-[**GitHub:**](https://github.com/Vagabund3)
+[**GitHub**](https://github.com/Vagabund3)
 
 **Discord:** Ruslan Lazarev (@vagabund3)
 
