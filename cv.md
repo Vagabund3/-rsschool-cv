@@ -59,7 +59,7 @@ const LoginForm = ({ handleSubmit, error, captchaUrl }) => {
 
 ## _Experience_
 
-Intern frontend-developer: 2021-05-10 – 2021-08-20
+Intern frontend-developer: 2021-05-10–2021-08-20
 ChatKeeperBot: Worked on creating an editor for a chat bot based on modular framework for visual programming: rete.js.
 
 ---
