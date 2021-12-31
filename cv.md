@@ -75,8 +75,8 @@ ChatKeeperBot: Worked on creating an editor for a chat bot based on modular fram
 ---
 
 ##_Languages_
-|English|A2/B1|
-| :-: | :-: |
+**English**: A2/B1
+
 
 ---
 
