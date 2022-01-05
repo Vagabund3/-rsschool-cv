@@ -1,1 +1,1 @@
-github.com/vagabund3/rsschool-cv
+https://Vagabund3.github.io/rsschool-cv/cv
